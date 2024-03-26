@@ -1,0 +1,6 @@
+
+Pages/__pycache__/
+
+*.pyc
+
+model.pkl
